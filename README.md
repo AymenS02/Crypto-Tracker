@@ -1,6 +1,7 @@
 # Crypto Tracker
 
-![Crypto Tracker](link_to_your_project_screenshot_or_gif.gif)
+![Crypto Tracker](![image](https://github.com/AymenS02/Crypto-Tracker/assets/95427313/b00da726-e69c-4fb5-ad7c-9585eaeb69a2)
+)
 
 Crypto Tracker is a web application that allows you to track cryptocurrency prices, historical data, and trending coins. It provides real-time information about various cryptocurrencies using the CoinGecko API. The project is built with React, JSX, HTML, SCSS, and incorporates several libraries including Font Awesome, Axios, Zustand, React Router, classNames, and Sass.
 
